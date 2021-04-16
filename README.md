@@ -4,7 +4,7 @@ Write a Data Science Blog Post
 
 1.  [Installation](https://github.com/rachit1010/rachit/blob/main/README.md#installation)
 2.  [Project Motivation](https://github.com/rachit1010/rachit/blob/main/README.md#project-motivation)
-3.  [File Description](https://github.com/rachit1010/rachit/blob/main/README.md#file-descriptions-)
+3.  [File Description](https://github.com/rachit1010/rachit/blob/main/README.md#file-descriptions)
 4.  [Results](https://github.com/rachit1010/rachit/blob/main/README.md#results)
 5.  [Licensing, Authors, and Acknowledgements](https://github.com/rachit1010/rachit/blob/main/README.md#licensing)
 
@@ -24,7 +24,7 @@ My key interests would be:
 2.  How is nation team player total market value distributed? Probably show a distribution plot in a world map?
 3.  How is a player's skilsl set influence his potential/wage? Can we predict a player's potential based on his skills' set?
 
-## [](https://github.com/rachit1010/rachit/blob/main/README.md#file-descriptions-)File Descriptions
+## [](https://github.com/rachit1010/rachit/blob/main/README.md#file-descriptions)File Descriptions
 
 Data.csv contains lastest edition FIFA 2019 players attributes including age, potential, wage, etc.
 
