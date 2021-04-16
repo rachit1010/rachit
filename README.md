@@ -6,7 +6,7 @@ Write a Data Science Blog Post
 2.  [Project Motivation](https://github.com/rachit1010/rachit/blob/main/README.md#project-motivation)
 3.  [File Description](https://github.com/rachit1010/rachit/blob/main/README.md#file-descriptions)
 4.  [Results](https://github.com/rachit1010/rachit/blob/main/README.md#results)
-5.  [Licensing, Authors, and Acknowledgements](https://github.com/rachit1010/rachit/blob/main/README.md#licensing)
+5.  [Licensing, Authors, and Acknowledgements](https://github.com/rachit1010/rachit/blob/main/README.md#licensing-authors-acknowledgements)
 
 ## [](https://github.com/rachit1010/rachit/blob/main/README.md#installation-)Installation
 
