@@ -74,4 +74,4 @@ The findings here are observational, not the result of a formal study. So the re
 
 > Will you go to the west?
 
-To see more about this analysis, see the link to my Github available [here](https://https://github.com/rachit1010/rachit/blob/main/Worksheet%207_final.ipynb).
+To see more about this analysis, see the link to my Github available [here](https://github.com/rachit1010/rachit/blob/main/blog.md).
