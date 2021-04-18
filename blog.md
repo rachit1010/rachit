@@ -42,9 +42,14 @@ Here you can see the comparison between both graph of Programming Languages vs P
 Based on above facts, we can calculate many intresting facts, like which Country can be best to work with, how much salary can i expect in future, am i going to be underpaid or overpaid employee. So we can find all these facts easily now based on above facts.
 
 # Part II: Do you take yours job as hobby?
-In the chart below, I was interested in how the developers think about their salary, is it underpaid or overpaid. The lines represent how they think they are overpaid, with a higher mark indicates the more they think they are overpaid.
+In the chart below, I was interested in, how many developers take their jobs as a hobby and what age group and gender they belong.  
 
-You can see that eastern programmers (blue line) feel more underpaid in their whole careers than western programmers (green line)
+There are some important features of listings. There are different aspects which attract the Professionals. Out of which *Languages, frameworks, and other technologies I’d be working with* aspects attracts more Profesionals, as they want to learn new things and keep themselves updated. 
+Also we can see that young age group between 20-30years takes their job as hobby compared to other age group.
+Most of the Professionals are Male among the gender.
+Here i am presenting one pairplot , rest plots can be seen in my github repository.
+
+ 
 
 ![](a2.PNG)
 
