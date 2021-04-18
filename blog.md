@@ -44,8 +44,8 @@ Based on above facts, we can calculate many intresting facts, like which Country
 # Part II: Do you take yours job as hobby?
 In the chart below, I was interested in, how many developers take their jobs as a hobby and what age group and gender they belong.  
 
-There are some important features of listings. There are different aspects which attract the Professionals. Out of which *Languages, frameworks, and other technologies I’d be working with* aspects attracts more Profesionals, as they want to learn new things and keep themselves updated. 
-Also we can see that young age group between 20-30years takes their job as hobby compared to other age group.
+There are some important features of listings. There are different aspects which attract the Professionals. Out of which *Languages, frameworks, and other technologies I’d be working with* aspect attracts more Profesionals, as they want to learn new things and keep themselves updated. 
+Also we can see that young age group between 20-30years takes their job as a hobby compared to other age group.
 Most of the Professionals are Male among the gender.
 Here i am presenting one pairplot , rest plots can be seen in my github repository.
 
