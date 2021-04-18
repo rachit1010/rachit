@@ -1,10 +1,16 @@
+### Overview
+This blog post is part of Udacity Project:1 (Write a Data Scientist Blog Post) under Data Scientists Nanodegree Program. Detailed analysis is done based on the project requirement, same is posted in my github repository executed on Jupyter notebook.
+
 ### Introduction
-There are many competing views when it comes to the IT career in the eastern world, specifically if you are a Software Engineer or so-called Coding Monkey.
+Whenever its about data visualization, its always confusing and requires lot of smart work. In this project i have tried to sort out some aspects based on dataset.
+Here, I am using the Stack Overflow,2020 Dataset for this blog post, link for the same is mentioned in Reference section below. As part of the Stack Overflow,2020 initiatives, the dataset describes the IT professionals and other professional's future in different countires with different aspects. There are 64461 listings against 61 attributes in the dataset including full descriptions of listings and Payment structure. Due to very large dataset, I have dropped few columns, which were not useful during my data visualization part. 
 
-You may have heard statements like “you need to go to Silicon Valley” or “don’t stay in the east if you are a Software Engineer.”
+Motivation behind this project:
+If you want to analyse about yours future in terms of job growth, salary growth and Country which can be best for coding type of job, in that case, this project is best because it focuses on answering such questions only.
 
-# Part I: Should you find a job in the Western World?
-But the question I was most interested in was
+# Part I: As a Python Programmer, what scope do i have, Currently and what scope its going to be in future?
+ 
+ But the question I was most interested in was
 > “Let’s pretend you have a distant cousin. They are 24 years old, have a college degree in computer programming, and have been working a coding job for the last two years in China. They want your advice on should they switch to a career in America. How would you recommend to your cousin?”
 
 Here you can see a programmer’s salary in the east is much lower than that in the west no matter how many years you are coding.
