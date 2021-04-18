@@ -15,7 +15,8 @@ If you want to analyse about yours future in terms of job growth, salary growth 
 
 Here you can see a programmer’s salary in the east is much lower than that in the west no matter how many years you are coding.
 
-![salary_comparison](c1.PNG)
+![](a1.PNG)
+![](a1_1.PNG)
 
 The data here are actual salary overall developers in the survey, but it could be more interesting to know how the difference of job satisfaction, career satisfaction and salary between East and West.
 
