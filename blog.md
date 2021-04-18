@@ -8,7 +8,7 @@ Here, I am using the Stack Overflow,2020 Dataset for this blog post, link for th
 Motivation behind this project:
 If you want to analyse about yours future in terms of job growth, salary growth and Country which can be best for coding type of job, in that case, this project is best because it focuses on answering such questions only.
 
-# Part I: As a Python Programmer, what scope do i have, Currently and what scope its going to be in future?
+# Part I: Currently, As a Python Programmer, what scope do i have, and what scope its going to be in future?
  
 In the listings there are 15 different Programming languages, which are in scope. Some of these Programming languages are very old whereas some are new, but got pace in IT market.
 
