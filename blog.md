@@ -41,12 +41,12 @@ Here you can see the comparison between both graph of Programming Languages vs P
 
 Based on above facts, we can calculate many intresting facts, like which Country can be best to work with, how much salary can i expect in future, am i going to be underpaid or overpaid employee. So we can find all these facts easily now based on above facts.
 
-# Part II: How do you think of your salary?
+# Part II: Do you take yours job as hobby?
 In the chart below, I was interested in how the developers think about their salary, is it underpaid or overpaid. The lines represent how they think they are overpaid, with a higher mark indicates the more they think they are overpaid.
 
 You can see that eastern programmers (blue line) feel more underpaid in their whole careers than western programmers (green line)
 
-![overpaid_comparison](pic2.png)
+![](a2.PNG)
 
 # Part III: What is the Job and Career Satisfaction difference?
 
