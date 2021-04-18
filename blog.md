@@ -10,7 +10,16 @@ If you want to analyse about yours future in terms of job growth, salary growth 
 
 # Part I: As a Python Programmer, what scope do i have, Currently and what scope its going to be in future?
  
- But the question I was most interested in was
+In the listings there are 15 different Programming languages, which are in scope. Some of these Programming languages are very old whereas some are new, but got pace in IT market.
+
+In the below Bar chart, you can see the comparison between No of languages and popularity for two different years. I would highlight the facts for top 5 languages, which are most popular.
+
+**Currently, most popular Programming langauges among all Countries are:**
+* JavaScript
+* HTML/CSS
+* SQL
+* Python
+* JAVA
 > “Let’s pretend you have a distant cousin. They are 24 years old, have a college degree in computer programming, and have been working a coding job for the last two years in China. They want your advice on should they switch to a career in America. How would you recommend to your cousin?”
 
 Here you can see a programmer’s salary in the east is much lower than that in the west no matter how many years you are coding.
