@@ -20,14 +20,26 @@ In the below Bar chart, you can see the comparison between No of languages and p
 * SQL
 * Python
 * JAVA
-> “Let’s pretend you have a distant cousin. They are 24 years old, have a college degree in computer programming, and have been working a coding job for the last two years in China. They want your advice on should they switch to a career in America. How would you recommend to your cousin?”
 
-Here you can see a programmer’s salary in the east is much lower than that in the west no matter how many years you are coding.
+**By next year, Programming langauegs vs Popularity**
+* JavaScript
+* Python
+* HTML/CSS
+* SQL
+* TypeScript
+
+As we can see here, how the popularity is changing of Programming langauges over a year. 
+Pyhton is becoming second most popular language by next year, infact as per numbers, its very close to JavaScript. JAVA langauge is not even in the top5 list by next year.
+
+So its always good to analyse such findings. 
+ 
+
+Here you can see the comparison between both graph of Programming Languages vs Popularity
 
 ![](a1.PNG)
 ![](a1_1.PNG)
 
-The data here are actual salary overall developers in the survey, but it could be more interesting to know how the difference of job satisfaction, career satisfaction and salary between East and West.
+Based on above facts, we can calculate many intresting facts, like which Country can be best to work with, how much salary can i expect in future, am i going to be underpaid or overpaid employee. So we can find all these facts easily now based on above facts.
 
 # Part II: How do you think of your salary?
 In the chart below, I was interested in how the developers think about their salary, is it underpaid or overpaid. The lines represent how they think they are overpaid, with a higher mark indicates the more they think they are overpaid.
